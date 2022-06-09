@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.uno{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    text-align: center;
+    font-size: x-large;
+}
+#tres{
+    text-align: center;
+    color: white;
+}
+fieldset{
+    margin-left: 510px;
+    margin-right: 190px;
+    max-width: 300px;
+     min-height: 499px;
+     background-color: white;
+}
+input[type=text]{
+    width:250px ;
+    line-height: 1.5rem;
+    padding: auto;
+    color: gray;
+    
+    
+ }
+ label{
+    display: block;
+    margin-top: 9px;
+    margin-bottom: 9px;
+    margin-right: 5px;
+    margin-left: 13px;
+    color:darkblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ body{
+     background-image: url('trading-infographic-backgroundbusiness-chart-rising-260nw-1945826395.jpg');
+ }
+
+ button{
+     display: block;
+     margin-top: 32px;
+     min-width: 280px;
+     line-height:2.0rem;
+     background-color: blue;
+     font-size: larges;
+ }
