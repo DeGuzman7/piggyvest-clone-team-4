@@ -67,4 +67,29 @@ a:hover{
     border: 0;
     background-color: #edf2f7;
 }
-
+@media (max-width:375px){
+    .circle{
+       position: fixed;
+       top: -105px;
+       left: -15px;
+        width: 20px;
+   }
+    .top-right{
+    position: fixed;
+    top: -5px;
+    right: -100px
+        width: 20px;
+}
+.bottom-left{
+    position: fixed;
+    bottom: -50px;
+    left: -100px;
+    width: 20px;
+}
+.bottom-right{
+    position: fixed;
+    bottom: -30px;
+    right: -100px;
+    width: 20px;
+    )
+    }
