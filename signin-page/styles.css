@@ -67,29 +67,3 @@ a:hover{
     border: 0;
     background-color: #edf2f7;
 }
-@media (max-width:375px){
-    .circle{
-       position: ;
-       top: -105px;
-       left: -15px;
-        width: 5px;
-   }
-    .top-right{
-    position: ;
-    top: -5px;
-    right: -100px
-        width: 5px;
-}
-.bottom-left{
-    position: ;
-    bottom: -50px;
-    left: -100px;
-    width: 5px;
-}
-.bottom-right{
-    position: ;
-    bottom: -30px;
-    right: -100px;
-    width: 5px;
-    )
-    }
