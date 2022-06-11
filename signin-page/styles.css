@@ -87,7 +87,7 @@ a:hover{
     width: 20px;
 }
 .bottom-right{
-    position: fixed;
+    position: relative;
     bottom: -30px;
     right: -100px;
     width: 20px;
