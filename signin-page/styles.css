@@ -1,5 +1,10 @@
 /*Body of before container*/
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
+font-@font-face {
+    family: ;
+    src: url(../U8-Bold.woff2);format ('woff2'),
+    url(../U8-Bold.woff2) formatt('woff') !important;
+  }
 body{
    background-color: #062863;
    color: gray;
