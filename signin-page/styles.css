@@ -72,24 +72,24 @@ a:hover{
        position: fixed;
        top: -105px;
        left: -15px;
-        width: 20px;
+        width: 5px;
    }
     .top-right{
     position: fixed;
     top: -5px;
     right: -100px
-        width: 20px;
+        width: 5px;
 }
 .bottom-left{
     position: fixed;
     bottom: -50px;
     left: -100px;
-    width: 20px;
+    width: 5px;
 }
 .bottom-right{
-    position: relative;
+    position: fixed;
     bottom: -30px;
     right: -100px;
-    width: 20px;
+    width: 5px;
     )
     }
