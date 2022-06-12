@@ -1109,6 +1109,11 @@
     .mobile-systems-grid .btn-sm {
       margin: 0 auto 0.9375rem;
     }
+    
+    .testimonials .testimonials-inner .testimonials-messages .testimonials-message{
+       width: 80%;
+      margin: 0 auto 0.9375rem;
+    }
   }
   
   @media (max-width: 768px) {
