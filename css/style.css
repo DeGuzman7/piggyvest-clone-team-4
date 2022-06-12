@@ -139,6 +139,13 @@
     filter: grayscale(1);
     max-width: 12.5rem;
   }
+
+  .header i{
+    /* display: none; */
+    position: absolute;
+    top: 30px;
+    right: 30px;
+  }
   
   .header ul li {
     display: inline-block;
