@@ -891,11 +891,12 @@
     width: 100%;
   }
 
-  .header.clicked .header-inner .nav-menu ul li {
+  .header.clicked .header-inner .nav-menu ul li, .header.clicked .header-inner .nav-btns li {
     margin-bottom: 50px;
+    text-align: center;
   }
 
-  .header.clicked .header-inner .nav-menu ul li a {
+  .header.clicked .header-inner .nav-menu ul li a, .header.clicked .header-inner .nav-btns li a {
     color: #333;
   }
   
