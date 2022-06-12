@@ -1111,8 +1111,16 @@
     }
     
     .testimonials .testimonials-inner .testimonials-messages .testimonials-message{
-       width: 80%;
-      margin: 0 auto 0.9375rem;
+       width: 70%;
+       margin: 0 auto 0.9375rem;
+    }
+    
+    .testimonials .testimonials-inner .testimonials-messages .testimonials-message p{
+      width: 100%;
+    }
+    
+    .testimonials .testimonials-inner .testimonials-messages .testimonials-message .message-head h5{
+       text-align: left;
     }
   }
   
