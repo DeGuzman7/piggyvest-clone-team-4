@@ -141,7 +141,7 @@
   }
 
   .header i{
-    /* display: none; */
+    display: none;
     position: absolute;
     top: 30px;
     right: 30px;
