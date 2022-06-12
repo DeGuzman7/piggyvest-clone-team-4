@@ -178,15 +178,4 @@ footer a:hover {
 	color: var(--secondary-color-light);
 }
 
-@media only screen and (min-width: 900px) {
-	body {
-		background-image: url('../images/circle.png'),
-			url('../img/download (2).pn'), url('..../img/download (2).png'),
-			url('.../img/download (1).png');
-		background-position: -1% -15%, 108% -1%, -5% 108%, 107% 105%;
-		background-repeat: no-repeat;
-		background-attachment: fixed;
-		background-size: 21rem 21rem;
-	}
-}
 
