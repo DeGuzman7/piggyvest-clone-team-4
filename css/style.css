@@ -879,12 +879,13 @@
     left: 0;
     width: 100vw;
     height: 100vh;
-    background: #000;
+    background: #fff;
     transform: translateX(0);
     padding: 150px 50px;
   }
 
   .header.clicked .header-inner .nav-menu ul {
+    display: inline-flex;
     flex-direction: column;
     justify-content: center;
     width: 100%;
@@ -895,7 +896,7 @@
   }
 
   .header.clicked .header-inner .nav-menu ul li a {
-    color: #fff;
+    color: #333;
   }
   
     .showcase,
