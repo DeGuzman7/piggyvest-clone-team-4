@@ -845,7 +845,11 @@
   /*============================================================================================
                                   MEDIA QUERIES SECTION
   ==========================================================================================*/
-  @media (max-width: 996px) {  
+  @media (max-width: 996px) {
+    .header {
+      padding: 20px 30px;
+    }
+    
   .header .fa-bars {
     display: block;
     font-size: 30px;
@@ -1197,6 +1201,10 @@
   }
   
   @media (max-width: 768px) {
+    .header {
+      padding: 20px 30px;
+    }
+    
     .header .fa-bars {
     display: block;
     font-size: 30px;
@@ -1533,6 +1541,10 @@
   }
   
   @media (max-width: 375px) {
+    .header {
+      padding: 20px 30px;
+    }
+    
     .header .fa-bars {
     display: block;
     font-size: 30px;
